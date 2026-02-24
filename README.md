@@ -42,8 +42,7 @@ The system outputs:
 - Warning signals
 - Decision insights
 
-**Example workflow diagram:**  
-![Workflow](https://tinyurl.com/trademind-ai-diagram)
+**Example workflow diagram:** ![Workflow](./images/a_flowchart_infographic_displays_the_trademind_ai.png)
 
 ---
 
